@@ -15,6 +15,7 @@ La meta es implementar y comparar un modelo que aprenda representaciones vectori
 ## 📁 Estructura del repositorio
 
 embedding_model/
+
 ├── README.md # Este archivo 📝
 
 ---
