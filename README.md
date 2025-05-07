@@ -1,6 +1,6 @@
 # 🧠 Embedding_model
 
-Repositorio del proyecto de *embeddings*
+Repositorio del proyecto de *embeddings* del Semillero de Investigación en Modelos Generativos
 
 🚀 **Objetivo del proyecto**  
 Desarrollar un modelo de *embeddings* propio inspirado en las ideas clave de modelos como:  
@@ -14,8 +14,7 @@ La meta es implementar y comparar un modelo que aprenda representaciones vectori
 
 ## 📁 Estructura del repositorio
 
-embedding_model/
-
+embedding_model/\
 ├── README.md # Este archivo 📝
 
 ---
