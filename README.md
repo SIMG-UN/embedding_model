@@ -1,4 +1,4 @@
-# 🧠 embedding_model
+# 🧠 Embedding_model
 
 Repositorio del proyecto de *embeddings*
 
