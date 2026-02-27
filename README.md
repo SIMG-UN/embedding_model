@@ -16,6 +16,7 @@ La meta es implementar y comparar un modelo que aprenda representaciones vectori
 
 embedding_model/\
 ├── README.md # Este archivo 📝
+├── collobert_weston_emb.ipynb # Notebook con implementación TDNN Collobert & Weston 📝
 
 ---
 
